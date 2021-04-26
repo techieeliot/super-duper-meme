@@ -4,6 +4,7 @@
 
 ### git commands
 
+- `git init`
 - `git add .`
 - `git commit -m "feat: add function"`
 - `git status`
@@ -13,3 +14,4 @@
 - `git branch master`
 - `git checkout -b eliot-feature`
 - `git checkout master`
+- `git clone https://github.com/techieeliot/super-duper-meme.git`
